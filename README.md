@@ -1,6 +1,6 @@
 **=====Sentiment Analysis using Natural Language Processing (NLP)=====**
 
-This project focuses on building a Sentiment Analysis system using Natural Language Processing (NLP) techniques to classify textual data into Positive, Negative, or Neutral sentiments. The system analyzes user-generated content such as reviews or comments to extract meaningful insights and understand overall sentiment trends.
+This project focuses on building a Sentiment Analysis system using Natural Language Processing (NLP) techniques to classify textual data into Positive, Negative sentiments. The system analyzes user-generated content such as reviews or comments to extract meaningful insights and understand overall sentiment trends.
 
 **Objectives**
 
